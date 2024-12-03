@@ -1,7 +1,6 @@
 # Functional Programming 2024.2, UFRN
 
 Student template repo.
-(Students should replace this text.)
 
 ## Structure
 
